@@ -1,3 +1,6 @@
+windwos 打包 host 修改工具
+python3.8+
+
 ```
 pip install PyQt5
 pip install pyinstaller
