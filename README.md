@@ -6,10 +6,10 @@
 pip install PyQt5
 pip install pyinstaller
 
-Pyinstaller -F setup.py 打包exe
+Pyinstaller -F main.py 打包exe
 
-Pyinstaller -F -w setup.py 不带控制台的打包
+Pyinstaller -F -w main.py 不带控制台的打包
 
-Pyinstaller -F -i xx.ico setup.py 打包指定exe图标打包
+Pyinstaller -F -i xx.ico main.py 打包指定exe图标打包
 
 ```
