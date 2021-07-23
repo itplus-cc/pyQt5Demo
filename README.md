@@ -1,4 +1,4 @@
-### windwos 打包 host 修改工具
+### windwos 打包 hosts 修改工具
 
 > python3.8+
 
