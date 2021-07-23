@@ -6,9 +6,6 @@ py40 PyQt5 tutorial
 This example shows an icon
 in the titlebar of the window.
 
-author: Jan Bodnar
-website: py40.com
-last edited: January 2015
 """
 
 import sys, os, re
